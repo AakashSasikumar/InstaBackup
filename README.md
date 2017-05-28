@@ -1,7 +1,7 @@
 # InstaBackup
 An program that allows taking a backup of files to an external device.
 
-##Feature
+## Feature
 
 1. Scheduling backups
 
